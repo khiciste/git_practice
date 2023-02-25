@@ -1,5 +1,5 @@
 ## Famous CS Quotes
-[Back to home...](./index.html)
+[Back to home...](./index)
 ### Grace Hopper - Nanoseconds
 
 >  They started talking about circuits that acted in nanoseconds, billionths of a second. Oh, I didn't know what a billion was, I don't think most of those men downtown know what a billion is either, and, ah, if you don't know what a billion is, how on earth do you know what a billionth is?
