@@ -1,5 +1,6 @@
 name: Kevin Cleland, web dev
 markdown: kramdown
+theme: midnight
 plugins:
   - jekyll-relative-links
 relative_links:
