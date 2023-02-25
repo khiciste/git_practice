@@ -39,8 +39,12 @@
 ### Alan Turing - Intelligent Machinery (1948)
 
 > A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+>
 > ...
+>
 > If we are trying to produce an intelligent machine, and are following the human model as closely as we can we should begin with a machine with very little capacity to carry out elaborate operations or to react in a disciplined manner to orders (taking the form of interference). Then by applying appropriate interference, mimicking education, we should hope to modify the machine until it could be relied on to produce definite reactions to certain ccommands. This would be the beginning of
 > the process. I will not attempt to follow it further now.
+>
 > ...
+>
 > The new form of the problem can be described in terms of a game which we call the 'imitation game'.
