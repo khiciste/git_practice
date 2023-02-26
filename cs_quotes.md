@@ -1,7 +1,7 @@
---
+---
 layout: default
 title: kc practicin' git
---
+---
 ## Famous CS Quotes
 [Back to home...](./index)
 ### Grace Hopper - Nanoseconds
