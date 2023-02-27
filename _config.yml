@@ -19,3 +19,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+sass:
+  sass_dir: ../assets/css
